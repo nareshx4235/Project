@@ -32,16 +32,57 @@ It leverages the **Haar Cascade algorithm** for facial detection and the **LBPH 
 
 2. Install the required dependencies: `pip install -r requirements.txt`
 
-## Snapshots
-1. ![FirstUI](https://github.com/nareshx4235/Project/assets/79928870/ec248f4a-89f5-4178-88a7-1aba0474c71b)
-2. ![LoginUI](https://github.com/nareshx4235/Project/assets/79928870/f2d82347-da93-4b00-b169-ffed3f5f2d53)
-3. ![Register](https://github.com/nareshx4235/Project/assets/79928870/01478aa7-5f1a-4f55-9f79-14ecb426792b)
-4. ![TakeAttendance](https://github.com/nareshx4235/Project/assets/79928870/01ae3597-99ed-467d-8da9-80b49b8031c6)
-5. ![WindowAfterLoginAdmin](https://github.com/nareshx4235/Project/assets/79928870/984d6f0f-2acd-495e-a02a-9b97ac06a2f4)
-6. ![StudentProfile](https://github.com/nareshx4235/Project/assets/79928870/355ee8c7-5484-439e-a4a8-d39647db9458)
-7. ![TrainData](https://github.com/nareshx4235/Project/assets/79928870/58e12425-293d-46bb-b9b5-995d21898703)
-8. ![Uploading Screenshot (3).png…]()
-9. ![EXCEL DAAT](https://github.com/nareshx4235/Project/assets/79928870/21089f23-4ee3-49b0-95fc-c8d044b7fefe)
+## System UI Snippents
+
+**Main Window**
+![FirstUI](https://github.com/nareshx4235/Project/assets/79928870/ec248f4a-89f5-4178-88a7-1aba0474c71b)
+
+
+
+**Login Page for Admin/Teacher**
+![LoginUI](https://github.com/nareshx4235/Project/assets/79928870/f2d82347-da93-4b00-b169-ffed3f5f2d53)
+
+
+
+**Signup form for Admin/Teacher**
+![Register](https://github.com/nareshx4235/Project/assets/79928870/01478aa7-5f1a-4f55-9f79-14ecb426792b)
+
+
+
+**Take Attendance** 
+![TakeAttendance](https://github.com/nareshx4235/Project/assets/79928870/01ae3597-99ed-467d-8da9-80b49b8031c6)
+
+
+
+
+
+**Functional Buttons**
+
+![WindowAfterLoginAdmin](https://github.com/nareshx4235/Project/assets/79928870/984d6f0f-2acd-495e-a02a-9b97ac06a2f4)
+
+
+
+
+**Student Profile**
+![StudentProfile](https://github.com/nareshx4235/Project/assets/79928870/355ee8c7-5484-439e-a4a8-d39647db9458)
+
+
+
+
+**Train Data**
+![TrainData](https://github.com/nareshx4235/Project/assets/79928870/58e12425-293d-46bb-b9b5-995d21898703)
+
+
+
+
+**Demo**
+![Screenshot (3)](https://github.com/nareshx4235/Project/assets/79928870/da94557b-5124-408f-8571-8178b4cef7cd)
+
+
+
+
+**Excel DATA Sheet**
+![EXCEL DAAT](https://github.com/nareshx4235/Project/assets/79928870/21089f23-4ee3-49b0-95fc-c8d044b7fefe)
 
 
 ## Usage
